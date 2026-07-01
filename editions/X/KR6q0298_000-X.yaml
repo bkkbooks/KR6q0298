@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6q0298/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 率菴梵琮禪師語錄
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X69/X69n1364.xml
+    old_id: X69n1364
+hash: sha256:0146540c3e2f3914d4033c43d705d7a8ee640704e32bc0114c8e60998c679b66
