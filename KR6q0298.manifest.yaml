@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6q0298_000.yaml, hash: 'sha256:0146540c3e2f3914d4033c43d705d7a8ee640704e32bc0114c8e60998c679b66'}
-  - {seq: 1, filename: KR6q0298_001.yaml, hash: 'sha256:1b9154319be32329fd6c6b4cb1b5136dee29e13a15171ae6d47cde4dd0b64dc4'}
+  - {seq: 1, filename: KR6q0298_001.yaml, hash: 'sha256:d722e10b15b07c97e6e0ef18b0df8cc2be63c4d07b5a379d8122bb7da8232ede'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6q0298_001.markers.yaml, hash: 'sha256:17312764e0d214ce85b68dd7b74c21a858ac918ce1016c77a676a93c6bdf4771'}
+  - {seq: 0, role: markers, filename: assets/KR6q0298_000.markers.yaml, hash: 'sha256:fb3dbe75f8fb2681295003f1c96c71f5ad668a8ad216ab3206c43b0d56961d45'}
+  - {seq: 1, role: markers, filename: assets/KR6q0298_001.markers.yaml, hash: 'sha256:9e1df0da784e1fd0692442372a2f4a213462758dd975c1213cfb700adbf8c760'}
 table_of_contents:
 - ref:
     seq: 1
@@ -916,7 +917,4 @@ table_of_contents:
   label: 對月了殘經
   type: mulu
   level: 1
-hash: sha256:af3fd9adbfbaa2055a2400c5e00277bad95a9682e728843a2e6079c35279063b
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:23e0b7d8f2d48906640124d42463c029bed8f308f48aa330f9ed5752060a02ce
